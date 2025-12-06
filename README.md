@@ -4,8 +4,9 @@ A Virtual IPP Everywhere server to print PDF files.
 
 ## Install Dependencies
 - cups-ipp-utils
+    - `ippeveprinter` tool is used to start virtual server
 
-For ubuntu : 
+For ubuntu, use the below command : 
 ```sh
 ./install-deps.sh
 ```
