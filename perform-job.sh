@@ -19,7 +19,7 @@ mkdir -p $SPOOL_DIR
 # Read from standard input and save the file
 cat "$FILE_PATH" > "$OUTPUT_FILE"
 
-# Log a message (optional, can be seen with -v flag)
+# Saved in prn file
 echo "INFO: Saved job $JOB_ID to $OUTPUT_FILE"
 echo "INFO: File extension: $FILE_EXTENSION"
 echo "INFO: File hash (SHA256): $FILE_HASH"
