@@ -1,6 +1,6 @@
-# Virtual IPP Everywhere Server
+# Virtual Printer for CUPS
 
-A Virtual IPP Everywhere server to print PDF files.
+Virtual Printer using IPP Everywhere protocol to print PDF files.
 
 ## Install Dependencies
 - cups-ipp-utils
