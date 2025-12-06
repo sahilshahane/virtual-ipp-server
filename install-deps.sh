@@ -1,0 +1,1 @@
+sudo apt install cups-ipp-utils -y
